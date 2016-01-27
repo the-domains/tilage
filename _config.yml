@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6170213
+color:
+  lightness: 0
+  brandStrength: 0.9510638
+  saturation: 1
+  rhythmicContrast: 0.9255319
+  brandColors:
+    - '#010201'
+    - '#FFEAE0'
+    - '#015465'
+    - '#CEBFBD'
+    - '#4A7678'
+name: Tilage
