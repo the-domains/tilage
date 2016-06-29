@@ -1,19 +1,4 @@
-name: Tilage
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.6170213
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e6e0ea'
@@ -25,4 +10,24 @@ color:
   lightness: 0
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Tiago Lage
+  email: tilage@gmail.com
+name: Tilage
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1d6989d-80bd-4fa7-80ce-c90ee496c06a.ico
+title: 'Cinematographer, Editor, Colorist'
 purpose: []
